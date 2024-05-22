@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "path": "^0.12.7",
+    "process": "^0.11.10"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "name": "uber-for-x-app",
+  "version": "1.0.0",
+  "description": "Uber for X application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevesdiary/uber-for-x-app..git"
+  },
+  "keywords": [
+    "Web",
+    "scrapping",
+    "job"
+  ],
+  "author": "Stephen Oyeyemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevesdiary/uber-for-x-app/issues"
+  },
+  "homepage": "https://github.com/stevesdiary/uber-for-x-app#readme"
+}
